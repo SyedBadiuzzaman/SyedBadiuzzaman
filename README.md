@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Syed Badi-Uz-Zaman 👋
 
-<!--
-**SyedBadiuzzaman/SyedBadiuzzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎯 Aspiring AI/ML Engineer & Data Scientist
+- 📚 Currently learning: Machine Learning
+- 🧠 Interested in: NLP
+- 🚀 Working on: EQAP
 
-Here are some ideas to get you started:
+## Skills
+- Languages: Python, SQL
+- Libraries/Tools: Pandas, NumPy,Scikit-learn
+- Other: Git, Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🔹 [EQAP] –Stock prediction app using machine learning to forecast market trends and prices.
+
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/syed-badiuzzaman/
+- Email: syedbadi.shah66@gmail.com
+
+---
+⭐ Always learning, always building
