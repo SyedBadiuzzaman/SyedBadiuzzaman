@@ -1,10 +1,10 @@
-# Hi, I'm Syed Badi-Uz-Zaman 👋
+# Hi, I'm Syed Badi-Uz-Zaman 
 
 ## About Me
-- 🎯 Aspiring AI/ML Engineer & Data Scientist
-- 📚 Currently learning: Machine Learning
-- 🧠 Interested in: NLP
-- 🚀 Working on: EQAP
+-  Aspiring AI/ML Engineer & Data Scientist
+-  Interested in: NLP
+-  Currently learning: Machine Learning
+-  Working on: EQAP
 
 ## Skills
 - Languages: Python, SQL
@@ -20,4 +20,4 @@
 - Email: syedbadi.shah66@gmail.com
 
 ---
-⭐ Always learning, always building
+ Always learning, always building
