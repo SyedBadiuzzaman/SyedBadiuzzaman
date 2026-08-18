@@ -4,7 +4,7 @@
 -  Aspiring AI/ML Engineer & Data Scientist
 -  Interested in: NLP
 -  Currently learning: Machine Learning
--  Working on: EQAP
+-  Working on: Real-Time Credit Risk Scoring Engine
 
 ## Skills
 - Languages: Python, SQL
@@ -13,6 +13,7 @@
 
 ## Projects
 - 🔹 [EQAP] –Stock prediction app using machine learning to forecast market trends and prices.
+- 🔹DevBoard — Full Stack Project Management Web App
 
 
 ## Connect with Me
