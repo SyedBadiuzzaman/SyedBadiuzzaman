@@ -13,7 +13,6 @@
 
 ## Projects
 - 🔹 [EQAP] –Stock prediction app using machine learning to forecast market trends and prices.
-- 🔹DevBoard — Full Stack Project Management Web App
 
 
 ## Connect with Me
