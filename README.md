@@ -13,6 +13,7 @@
 
 ## Projects
 - 🔹 [EQAP] –Stock prediction app using machine learning to forecast market trends and prices.
+- 🔹 [HCG] -Health_Care_GPT  patient-scoped medical-history retrieval
 
 
 ## Connect with Me
