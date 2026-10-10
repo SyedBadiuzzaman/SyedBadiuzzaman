@@ -37,79 +37,94 @@ I am an **AI Engineer and Machine Learning Practitioner** specializing in buildi
 </div>
 
 <details>
-<summary><b>📂 View Detailed Technology Stack by Category</b></summary>
-<br/>
+<summary><b>View technology stack by category</b></summary>
 
-| Domain | Technologies & Approaches |
-| :--- | :--- |
-| 💻 **Languages & Frontend** | Python, SQL, JavaScript (ES6+), React, HTML5, CSS3 |
-| 📊 **Data Science & ML** | pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Feature Engineering |
-| 🧠 **Deep Learning** | PyTorch, TensorFlow, Hugging Face Transformers |
-| 🔍 **LLMs & Retrieval** | LangChain, LlamaIndex, OpenAI SDK, RAG, FAISS, pgvector, Prompt Engineering |
-| 🗄️ **Databases** | PostgreSQL, MySQL, Indexing, Window Functions, Query Optimization |
-| ⚙️ **Backend & MLOps** | FastAPI, MLflow, Docker, GitHub Actions, AWS (S3 / SageMaker) |
-| 🔄 **Workflow & Tools** | Git, GitHub, Jupyter, VS Code, `uv` |
+| Area | Technologies & approaches |
+| :-- | :-- |
+| **Languages & frontend** | Python, SQL, JavaScript (ES6+), React, HTML5, CSS3 |
+| **Data science & ML** | pandas, NumPy, scikit-learn, XGBoost, Matplotlib, feature engineering, model evaluation |
+| **Deep learning** | PyTorch, TensorFlow, Hugging Face Transformers |
+| **LLMs & retrieval** | LangChain, LlamaIndex, OpenAI SDK, RAG, FAISS, pgvector, prompt engineering |
+| **Databases** | PostgreSQL, MySQL, indexing, joins, window functions, query optimization |
+| **Backend & MLOps** | FastAPI, MLflow, Docker, GitHub Actions, AWS S3 / SageMaker |
+| **Workflow** | Git, GitHub, Jupyter, VS Code, uv |
 
 </details>
 
----
-
-### 🚀 Featured Work
+### 🚀 Featured work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Health Care GPT</h3>
-      <p><strong>Patient-Scoped Retrieval Augmented Generation</strong></p>
-      <p>A secure, medical-history RAG system focused on access-controlled retrieval and citation-bound summaries.</p>
-      <ul>
-        <li>Designed embedding, chunking, and hybrid-retrieval pipelines.</li>
-        <li>Implemented PostgreSQL + pgvector with FastAPI and JWT authorization.</li>
-        <li>Developed retrieval and adversarial safety evaluation assets.</li>
-      </ul>
-      <p><strong>Stack:</strong> Python · FastAPI · pgvector · Sentence Transformers · Gemini</p>
-      <a href="https://github.com/SyedBadiuzzaman/health_care_gpt"><strong>View Repository →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 EQAP</h3>
-      <p><strong>Quantitative Analytics & Predictive Modeling</strong></p>
-      <p>End-to-end financial time-series modeling platform across multiple tickers and asset types.</p>
-      <ul>
-        <li>Processed 5+ years of historical market data into 200+ technical/rolling indicators.</li>
-        <li>Built ML workflows with MLflow tracking and scalable prediction APIs.</li>
-        <li>Developed a React-based interactive exploration and forecast dashboard.</li>
-      </ul>
-      <p><strong>Stack:</strong> Python · XGBoost · scikit-learn · PostgreSQL · MLflow · FastAPI · React</p>
-      <a href="https://github.com/SyedBadiuzzaman/EQAP_Backend"><strong>Backend →</strong></a> · <a href="https://github.com/SyedBadiuzzaman/EQAP_FrontEnd"><strong>Frontend →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🔍 Exploratory Data Analysis</h3>
-      <p><strong>Data Exploration & Reproducible Notebooks</strong></p>
-      <p>A curated collection of Jupyter notebooks demonstrating advanced data exploration, statistical analysis, and reproducible ML workflows.</p>
-      <p><strong>Stack:</strong> Python · Jupyter · pandas · NumPy</p>
-      <a href="https://github.com/SyedBadiuzzaman/EDA-s"><strong>Explore Notebooks →</strong></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏥 Health Care GPT
+**Patient-scoped retrieval augmented generation**
+
+A medical-history RAG project focused on access-controlled retrieval and citation-bound summaries.
+
+- Embedding, chunking and hybrid-retrieval pipeline
+- PostgreSQL + pgvector and FastAPI + JWT authorization
+- Retrieval and adversarial safety evaluation assets
+
+**Stack:** Python · FastAPI · pgvector · Sentence Transformers · Gemini
+
+[**View repository →**](https://github.com/SyedBadiuzzaman/health_care_gpt)
+</td>
+<td width="50%" valign="top">
+
+#### 📊 EQAP
+**Quantitative analytics & predictive modeling**
+
+End-to-end financial time-series modeling across multiple tickers and asset types.
+
+- Five years of historical market data
+- 200 technical and rolling statistical indicators
+- ML workflows, MLflow tracking and prediction APIs
+- React-based exploration and forecast dashboard
+
+**Stack:** Python · XGBoost · scikit-learn · PostgreSQL · MLflow · FastAPI · React
+
+[**Backend →**](https://github.com/SyedBadiuzzaman/EQAP_Backend) · [**Frontend →**](https://github.com/SyedBadiuzzaman/EQAP_FrontEnd)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔍 Exploratory Data Analysis
+**Data exploration & reproducible notebooks**
+
+A collection of Jupyter notebooks exploring datasets and practicing analysis workflows.
+
+**Stack:** Python · Jupyter · pandas · NumPy
+
+[**Explore notebooks →**](https://github.com/SyedBadiuzzaman/EDA-s)
+</td>
+</tr>
 </table>
 
----
+### 🔬 How I build AI systems
 
-### 🔬 How I Build AI Systems
+```text
+Business problem → Data collection & cleaning → Feature engineering
+             → Model / RAG pipeline → Evaluation
+             → FastAPI serving → UI / deployment → Monitoring & iteration
+```
 
-I follow a structured, iterative lifecycle to ensure AI systems are robust, measurable, and production-ready:
+### 📈 GitHub activity
 
-```mermaid
-graph TD
-    A[🎯 Business Problem] --> B[📊 Data Collection & Cleaning]
-    B --> C[⚙️ Feature Engineering / Embeddings]
-    C --> D[🧠 Model Training / RAG Pipeline]
-    D --> E[🧪 Evaluation & Testing]
-    E --> F[🚀 FastAPI Serving & CI/CD]
-    F --> G[💻 UI / Deployment]
-    G --> H[📈 Monitoring & Iteration]
-    
-    classDef default fill:#0B1026,stroke:#22D3EE,stroke-width:2px,color:#ffffff,rx:5px,ry:5px;
-    classDef highlight fill:#12335A,stroke:#06B6D4,stroke-width:2px,color:#ffffff,rx:5px,ry:5px;
-    class A,D,F,H highlight;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedBadiuzzaman&show_icons=true&hide_border=true&bg_color=0B1026&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA" height="165" alt="GitHub profile statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedBadiuzzaman&layout=compact&hide_border=true&bg_color=0B1026&title_color=22D3EE&text_color=CBD5E1" height="165" alt="Most used public repository languages" />
+</div>
+
+> **Interested in practical AI products, robust RAG systems, and end-to-end machine learning engineering.**
+
+<div align="center">
+
+### 🤝 Let's connect
+
+[**Portfolio**](https://syed-badi-uz-zaman-shah.syedbadi-shah66.workers.dev/) · [**LinkedIn**](https://www.linkedin.com/in/syed-badiuzzaman/) · [**Email**](mailto:syedbadi.shah66@gmail.com) · [**GitHub**](https://github.com/SyedBadiuzzaman)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0B1026,50:12335A,100:06B6D4" alt="Decorative footer" />
+
+</div>
